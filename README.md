@@ -1,8 +1,14 @@
 # 🐕 Defi Puppy | 3D NFT
 
+Defi Puppy website: https://defi-puppy.vercel.app/
+
 ## Description
 
 Introducing your new virtual companion: a Defi puppy that you can mint (3D NFT) and bring to life! Once minted, your Defi puppy can roam around your space, interact with you, and join in on various activities.
+
+![image](https://github.com/user-attachments/assets/f9c1c523-dec8-4567-abcc-bdef5fc827b9)
+
+![defi puppy clip](https://github.com/user-attachments/assets/1341e62e-5afc-4dea-8297-a04a754299d7)
 
 ## Requirements
 
